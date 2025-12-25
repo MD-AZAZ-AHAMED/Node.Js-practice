@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Handling</title>
+  <style>
+    form {
+      margin: 50px;
+      font-size: 20px;
+    }
+    input[type="text"], input[type="email"] {
+      padding: 5px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      padding: 10px 15px;
+      font-size: 18px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+    </style>
+</head>
+<body>
+  <h1>Form Handling</h1>
+  <form action="/form-submit" method="POST">
+    name<input type="text" name="username" placeholder="Enter Your Name">
+    <br>
+    <br>
+    email<input type="email" name="email" placeholder="Enter Your Email">
+    <br>
+    <br>
+    password<input type="password" name="password" placeholder="Enter Your Password">
+    <br>
+    <br>
+    <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
