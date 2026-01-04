@@ -1,0 +1,2737 @@
+{
+  "active_plap_emitters": [],
+  "activity_log": [
+    {
+      "record_type": "player_choice",
+      "text": "Jill: 'Man of the House'"
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "Hey, mister fix-it!"
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "Did you have any luck?"
+    },
+    {
+      "record_type": "player_choice",
+      "text": "I Fixed it"
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "Oh, don't worry about--"
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "You fixed it? really?"
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "That's amazing!"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "Jill pulls you into a warm hug."
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "Thank you, azaz!"
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "I'm so lucky to have you here."
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "She loosens her grip and gives you some breathing space."
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "I'll have to repay you somehow."
+    },
+    {
+      "record_type": "player_choice",
+      "text": "No Need"
+    },
+    {
+      "record_type": "system_output",
+      "text": "Relationship with Jill improved!  [color=ff0000][img=28x28]res://img/ui/choice_icon/hearts.png[/img]+50 Love[/color]"
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "Are you sure? "
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "Well, thanks again."
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "It really is nice having a man around the house."
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "Jill goes back to what she was doing."
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "You are in the kitchen.\nJill is here."
+    },
+    {
+      "record_type": "player_choice",
+      "text": "Dinner with Jill"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "You decide to join Jill for dinner."
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "She vents to you about her day at work."
+    },
+    {
+      "record_type": "system_output",
+      "text": "Relationship with Jill improved!  [color=ff0000][img=28x28]res://img/ui/choice_icon/hearts.png[/img]+5 Love[/color]"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "She seems to enjoy having someone like you to talk to."
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "You are in the kitchen."
+    },
+    {
+      "record_type": "player_choice",
+      "text": "Leave"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "You are in Jill's house."
+    },
+    {
+      "record_type": "player_choice",
+      "text": "Your Bedroom"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "You are in your bedroom."
+    },
+    {
+      "record_type": "player_choice",
+      "text": "Text Jill (Private Favors)"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "You send Jill a text."
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "After a moment, your phone buzzes."
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "on my way! 😉"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "Before long, you hear footsteps approaching."
+    },
+    {
+      "record_type": "player_choice",
+      "text": "Whip Out Your Cock"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "You try to unleash your throbbing giant, but the zipper won't budge!"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "(Not yet implemented)"
+    },
+    {
+      "girl_id": "",
+      "record_type": "dialog",
+      "text": "There is a tap at the door and Jill enters."
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "Hi, azaz."
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "About before... I'm really sorry for barging into your room like that."
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "Was there... something you needed?"
+    },
+    {
+      "record_type": "player_choice",
+      "text": "Ask Her to 'Watch' You Again"
+    },
+    {
+      "record_type": "system_output",
+      "text": "Watch Me (Masturbate): Critical Fail "
+    },
+    {
+      "record_type": "system_output",
+      "text": "[color=aaaaaa]--- Watch Me (Masturbate) Score Breakdown ---[/color]\nBase Difficulty: -3.00\nFirst Time: -0.50\nLove: +2.41\n[color=aaaaaa]Final Score: -1.09 (Crit Fail: 2.00 | Crit Success: 4.50)[/color]"
+    },
+    {
+      "record_type": "system_output",
+      "text": "(Jill is now slightly weaker to your [b]Authority.[/b]) [color=c187e0][img=28x28]res://img/ui/choice_icon/voice.png[/img]+8[/color]"
+    },
+    {
+      "record_type": "system_output",
+      "text": "Jill lost patience.  [color=5ee6c8][img=28x28]res://img/ui/choice_icon/time_forward.png[/img]-(30 Patience)[/color]"
+    },
+    {
+      "record_type": "system_output",
+      "text": "Jill is more aroused.  [color=ed559a][img=28x28]res://img/ui/choice_icon/fire.png[/img]+7 Heat[/color]"
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "Watch you what!?"
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "That's... that's sick, azaz."
+    },
+    {
+      "girl_id": "jill",
+      "record_type": "dialog",
+      "text": "What kind of woman do you think I am?"
+    },
+    {
+      "record_type": "player_choice",
+      "text": "Advance to Level 3"
+    },
+    {
+      "record_type": "system_output",
+      "text": "Unlocked Level 3! Relationship deepened."
+    },
+    {
+      "record_type": "player_choice",
+      "text": "Advance to Level 4"
+    },
+    {
+      "record_type": "system_output",
+      "text": "Unlocked Level 4! Maximum affection achieved."
+    }
+  ],
+  "current_bgm_track": "",
+  "current_phase": "night",
+  "current_room": "mc_bedroom",
+  "current_weather": "clear",
+  "dialog_player": {
+    "choice_nodes": [],
+    "current_node": "DIALOG_012",
+    "current_tree": "jill_pf_ask_watch_mc",
+    "event_subtree_anchor_0": "nav_mc_bedroom",
+    "subtree_anchor_stack": [
+      [
+        "invite_jill",
+        {
+          "end_pf_aborted": "aborted",
+          "end_pf_angry": "got_angry",
+          "end_pf_patience": "patience_depleted"
+        }
+      ]
+    ],
+    "visited_nodes": {
+      "cafe_afternoon_shift": {
+        "DIALOG_001": true,
+        "DIALOG_002": true
+      },
+      "cafe_morning_shift": {
+        "DIALOG_001": true,
+        "DIALOG_002": true
+      },
+      "cs_cafe_intro": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true,
+        "DIALOG_022": true
+      },
+      "cs_gym_intro": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_022": true,
+        "DIALOG_023": true,
+        "DIALOG_024": true,
+        "DIALOG_025": true,
+        "DIALOG_026": true,
+        "DIALOG_027": true,
+        "DIALOG_028": true,
+        "DIALOG_029": true,
+        "DIALOG_030": true,
+        "DIALOG_031": true,
+        "DIALOG_032": true
+      },
+      "cs_intro_jill": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_004": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true,
+        "DIALOG_022": true,
+        "DIALOG_023": true,
+        "DIALOG_024": true,
+        "DIALOG_025": true,
+        "DIALOG_026": true,
+        "DIALOG_027": true,
+        "DIALOG_028": true,
+        "DIALOG_031": true,
+        "DIALOG_033": true,
+        "DIALOG_038": true,
+        "DIALOG_039": true,
+        "DIALOG_041": true,
+        "DIALOG_042": true,
+        "DIALOG_047": true,
+        "DIALOG_048": true,
+        "DIALOG_049": true,
+        "DIALOG_050": true,
+        "DIALOG_051": true,
+        "DIALOG_052": true,
+        "DIALOG_053": true,
+        "DIALOG_054": true,
+        "DIALOG_055": true,
+        "DIALOG_056": true,
+        "DIALOG_057": true,
+        "DIALOG_058": true,
+        "DIALOG_064": true,
+        "DIALOG_065": true,
+        "DIALOG_068": true,
+        "DIALOG_069": true,
+        "DIALOG_070": true,
+        "DIALOG_071": true,
+        "DIALOG_072": true,
+        "DIALOG_073": true,
+        "DIALOG_074": true,
+        "DIALOG_075": true,
+        "DIALOG_077": true,
+        "DIALOG_078": true,
+        "DIALOG_079": true,
+        "DIALOG_080": true,
+        "DIALOG_081": true,
+        "DIALOG_082": true,
+        "DIALOG_083": true,
+        "DIALOG_084": true,
+        "DIALOG_086": true
+      },
+      "cs_intro_wake_up": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true
+      },
+      "gym_workout": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true
+      },
+      "invite_jill": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_010": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_019": true
+      },
+      "jill_0_hearts_max_love": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_017": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true
+      },
+      "jill_1_heart_max_love": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true,
+        "DIALOG_022": true,
+        "DIALOG_023": true,
+        "DIALOG_024": true,
+        "DIALOG_025": true,
+        "DIALOG_026": true,
+        "DIALOG_027": true,
+        "DIALOG_028": true,
+        "DIALOG_029": true,
+        "DIALOG_030": true,
+        "DIALOG_031": true,
+        "DIALOG_032": true,
+        "DIALOG_033": true,
+        "DIALOG_034": true,
+        "DIALOG_035": true,
+        "DIALOG_036": true,
+        "DIALOG_037": true,
+        "DIALOG_038": true,
+        "DIALOG_039": true,
+        "DIALOG_040": true,
+        "DIALOG_041": true,
+        "DIALOG_042": true,
+        "DIALOG_043": true,
+        "DIALOG_044": true,
+        "DIALOG_045": true,
+        "DIALOG_046": true,
+        "DIALOG_047": true,
+        "DIALOG_048": true,
+        "DIALOG_049": true,
+        "DIALOG_050": true,
+        "DIALOG_051": true,
+        "DIALOG_052": true,
+        "DIALOG_053": true,
+        "DIALOG_054": true,
+        "DIALOG_055": true,
+        "DIALOG_056": true,
+        "DIALOG_057": true,
+        "DIALOG_058": true,
+        "DIALOG_059": true,
+        "DIALOG_060": true,
+        "DIALOG_062": true,
+        "DIALOG_063": true,
+        "DIALOG_064": true
+      },
+      "jill_2_heart_max_love": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true,
+        "DIALOG_022": true,
+        "DIALOG_023": true,
+        "DIALOG_024": true,
+        "DIALOG_025": true,
+        "DIALOG_026": true,
+        "DIALOG_027": true,
+        "DIALOG_028": true,
+        "DIALOG_029": true,
+        "DIALOG_030": true,
+        "DIALOG_031": true,
+        "DIALOG_032": true,
+        "DIALOG_033": true,
+        "DIALOG_034": true,
+        "DIALOG_035": true,
+        "DIALOG_036": true,
+        "DIALOG_037": true,
+        "DIALOG_038": true,
+        "DIALOG_039": true,
+        "DIALOG_040": true,
+        "DIALOG_041": true,
+        "DIALOG_042": true,
+        "DIALOG_043": true,
+        "DIALOG_044": true,
+        "DIALOG_045": true,
+        "DIALOG_046": true,
+        "DIALOG_047": true,
+        "DIALOG_048": true,
+        "DIALOG_049": true,
+        "DIALOG_050": true,
+        "DIALOG_051": true,
+        "DIALOG_052": true,
+        "DIALOG_053": true,
+        "DIALOG_054": true,
+        "DIALOG_055": true,
+        "DIALOG_056": true,
+        "DIALOG_057": true,
+        "DIALOG_058": true,
+        "DIALOG_059": true,
+        "DIALOG_060": true,
+        "DIALOG_062": true,
+        "DIALOG_063": true,
+        "DIALOG_064": true
+      },
+      "jill_3_heart_max_love": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true,
+        "DIALOG_022": true,
+        "DIALOG_023": true,
+        "DIALOG_024": true,
+        "DIALOG_025": true,
+        "DIALOG_026": true,
+        "DIALOG_027": true,
+        "DIALOG_028": true,
+        "DIALOG_029": true,
+        "DIALOG_030": true,
+        "DIALOG_031": true,
+        "DIALOG_032": true,
+        "DIALOG_033": true,
+        "DIALOG_034": true,
+        "DIALOG_035": true,
+        "DIALOG_036": true,
+        "DIALOG_037": true,
+        "DIALOG_038": true,
+        "DIALOG_039": true,
+        "DIALOG_040": true,
+        "DIALOG_041": true,
+        "DIALOG_042": true,
+        "DIALOG_043": true,
+        "DIALOG_044": true,
+        "DIALOG_045": true,
+        "DIALOG_046": true,
+        "DIALOG_047": true,
+        "DIALOG_048": true,
+        "DIALOG_049": true,
+        "DIALOG_050": true,
+        "DIALOG_051": true,
+        "DIALOG_052": true,
+        "DIALOG_053": true,
+        "DIALOG_054": true,
+        "DIALOG_055": true,
+        "DIALOG_056": true,
+        "DIALOG_057": true,
+        "DIALOG_058": true,
+        "DIALOG_059": true,
+        "DIALOG_060": true,
+        "DIALOG_062": true,
+        "DIALOG_063": true,
+        "DIALOG_064": true
+      },
+      "jill_bedroom_photo": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true
+      },
+      "jill_favor_kiss": {
+        "DIALOG_001": true,
+        "DIALOG_005": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_034": true,
+        "DIALOG_039": true,
+        "DIALOG_040": true,
+        "DIALOG_041": true
+      },
+      "jill_negotiate": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_004": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_012": true,
+        "DIALOG_014": true
+      },
+      "jill_pf_ask_watch_mc": {
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_016": true
+      },
+      "jill_plead_generic": {
+        "DIALOG_002": true,
+        "DIALOG_007": true,
+        "DIALOG_009": true
+      },
+      "jill_ps_01_ask_stay": {
+        "DIALOG_002": true,
+        "DIALOG_005": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_021": true,
+        "DIALOG_022": true,
+        "DIALOG_023": true,
+        "DIALOG_036": true,
+        "DIALOG_041": true,
+        "DIALOG_042": true,
+        "DIALOG_047": true
+      },
+      "jill_ps_01_cum_options": {
+        "DIALOG_001": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_006": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true,
+        "DIALOG_022": true,
+        "DIALOG_023": true,
+        "DIALOG_024": true,
+        "DIALOG_025": true
+      },
+      "jill_ps_01_start": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true,
+        "DIALOG_023": true,
+        "DIALOG_024": true,
+        "DIALOG_025": true,
+        "DIALOG_027": true,
+        "DIALOG_028": true,
+        "DIALOG_030": true,
+        "DIALOG_031": true,
+        "DIALOG_033": true,
+        "DIALOG_034": true,
+        "DIALOG_035": true,
+        "DIALOG_038": true,
+        "DIALOG_041": true,
+        "DIALOG_042": true,
+        "DIALOG_043": true,
+        "DIALOG_044": true,
+        "DIALOG_045": true,
+        "DIALOG_046": true,
+        "DIALOG_047": true,
+        "DIALOG_048": true
+      },
+      "jill_ps_01_stay_watch": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_036": true,
+        "DIALOG_037": true,
+        "DIALOG_039": true,
+        "DIALOG_040": true,
+        "DIALOG_041": true,
+        "DIALOG_042": true,
+        "DIALOG_043": true
+      },
+      "jill_sq_01_fix_sink": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true
+      },
+      "jill_sq_01_in_prog": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true
+      },
+      "jill_sq_01_start": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true
+      },
+      "jill_sq_02_start": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true,
+        "DIALOG_022": true,
+        "DIALOG_023": true,
+        "DIALOG_024": true,
+        "DIALOG_025": true,
+        "DIALOG_026": true,
+        "DIALOG_027": true,
+        "DIALOG_028": true,
+        "DIALOG_029": true,
+        "DIALOG_030": true,
+        "DIALOG_031": true,
+        "DIALOG_032": true,
+        "DIALOG_033": true,
+        "DIALOG_034": true,
+        "DIALOG_035": true,
+        "DIALOG_036": true,
+        "DIALOG_037": true,
+        "DIALOG_038": true,
+        "DIALOG_039": true,
+        "DIALOG_040": true,
+        "DIALOG_041": true,
+        "DIALOG_042": true,
+        "DIALOG_043": true,
+        "DIALOG_044": true,
+        "DIALOG_045": true,
+        "DIALOG_046": true,
+        "DIALOG_047": true,
+        "DIALOG_048": true,
+        "DIALOG_049": true,
+        "DIALOG_050": true,
+        "DIALOG_051": true,
+        "DIALOG_052": true,
+        "DIALOG_053": true,
+        "DIALOG_054": true,
+        "DIALOG_055": true,
+        "DIALOG_056": true,
+        "DIALOG_057": true,
+        "DIALOG_058": true,
+        "DIALOG_059": true,
+        "DIALOG_060": true,
+        "DIALOG_061": true,
+        "DIALOG_062": true,
+        "DIALOG_063": true,
+        "DIALOG_064": true,
+        "DIALOG_065": true,
+        "DIALOG_066": true,
+        "DIALOG_067": true,
+        "DIALOG_068": true,
+        "DIALOG_069": true,
+        "DIALOG_070": true,
+        "DIALOG_071": true,
+        "DIALOG_072": true,
+        "DIALOG_073": true,
+        "DIALOG_074": true,
+        "DIALOG_076": true,
+        "DIALOG_077": true,
+        "DIALOG_078": true,
+        "DIALOG_079": true,
+        "DIALOG_080": true,
+        "DIALOG_081": true,
+        "DIALOG_082": true,
+        "DIALOG_083": true,
+        "DIALOG_088": true,
+        "DIALOG_089": true,
+        "DIALOG_090": true,
+        "DIALOG_091": true
+      },
+      "jill_vignette_cafe": {
+        "DIALOG_001": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true
+      },
+      "jill_vignette_dinner": {
+        "DIALOG_001": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true
+      },
+      "jill_vignette_gym": {
+        "DIALOG_001": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true
+      },
+      "jill_visit_action": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true
+      },
+      "jill_visit_backrub": {
+        "DIALOG_001": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true
+      },
+      "jill_visit_favor": {
+        "DIALOG_001": true
+      },
+      "jill_visit_goodbye": {
+        "DIALOG_001": true,
+        "DIALOG_002": true
+      },
+      "jill_visit_greeting": {
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true
+      },
+      "jill_visit_home": {
+        "DIALOG_001": true,
+        "DIALOG_007": true,
+        "DIALOG_012": true
+      },
+      "jill_visit_hug": {
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_021": true,
+        "DIALOG_023": true,
+        "DIALOG_028": true,
+        "DIALOG_029": true,
+        "DIALOG_030": true,
+        "DIALOG_038": true
+      },
+      "jill_visit_kiss_cheek": {
+        "DIALOG_001": true,
+        "DIALOG_003": true,
+        "DIALOG_006": true
+      },
+      "jill_visit_praise": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_027": true,
+        "DIALOG_028": true
+      },
+      "jill_visit_talk_about": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_004": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true
+      },
+      "jill_visit_touch": {
+        "DIALOG_001": true
+      },
+      "nav_cafe": {
+        "DIALOG_001": true
+      },
+      "nav_gym": {
+        "DIALOG_001": true
+      },
+      "nav_jill_bedroom": {
+        "DIALOG_001": true
+      },
+      "nav_jill_home": {
+        "DIALOG_001": true
+      },
+      "nav_jill_kitchen": {
+        "DIALOG_001": true
+      },
+      "nav_mc_bedroom": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_004": true
+      },
+      "nav_town_map": {
+        "DIALOG_001": true
+      },
+      "sleepytime": {
+        "DIALOG_001": true,
+        "DIALOG_002": true
+      },
+      "strange_note": {
+        "DIALOG_001": true,
+        "DIALOG_002": true,
+        "DIALOG_003": true,
+        "DIALOG_004": true,
+        "DIALOG_005": true,
+        "DIALOG_006": true,
+        "DIALOG_007": true,
+        "DIALOG_008": true,
+        "DIALOG_009": true,
+        "DIALOG_010": true,
+        "DIALOG_011": true,
+        "DIALOG_012": true,
+        "DIALOG_013": true,
+        "DIALOG_014": true,
+        "DIALOG_015": true,
+        "DIALOG_016": true,
+        "DIALOG_017": true,
+        "DIALOG_018": true,
+        "DIALOG_019": true,
+        "DIALOG_020": true,
+        "DIALOG_021": true,
+        "DIALOG_022": true,
+        "DIALOG_023": true,
+        "DIALOG_024": true,
+        "DIALOG_025": true,
+        "DIALOG_026": true,
+        "DIALOG_027": true,
+        "DIALOG_028": true,
+        "DIALOG_029": true,
+        "DIALOG_030": true,
+        "DIALOG_031": true,
+        "DIALOG_032": true,
+        "DIALOG_033": true,
+        "DIALOG_034": true,
+        "DIALOG_035": true,
+        "DIALOG_036": true,
+        "DIALOG_037": true,
+        "DIALOG_038": true,
+        "DIALOG_039": true
+      }
+    }
+  },
+  "girl_info": {
+    "jill": {
+      "action_tests": {
+        "ask_go_private": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "ask_kiss_cheek": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "ask_kiss_lips": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "kiss_cheek_turn_head": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "pf_ask_cum_chest": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "pf_ask_cum_hands": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "pf_ask_paizuri": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "pf_ask_undress_bra": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "pf_ask_undress_top": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "pf_ask_watch_mc": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "pf_whip_it_out": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "ps_01_ask_stay": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_backrub": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_hug": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_hug_grope": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_kiss_cheek": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_praise_risky_01": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_praise_risky_02": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_praise_safe_01": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_praise_safe_02": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_praise_vulgar_01": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        },
+        "visit_praise_vulgar_02": {
+          "memory_flags": {
+            "allowed_already": false,
+            "denied_already": false
+          }
+        }
+      },
+      "anger_strikes": 0,
+      "conditioning_scores": {
+        "MC_AUTHORITY": 200,
+        "MC_CUM": 100,
+        "MC_GAZE": 150,
+        "MC_PENIS": 200,
+        "MC_TONGUE": 50,
+        "MC_TOUCH": 500
+      },
+      "current_location": "jill_bedroom",
+      "girl_name": "Jill",
+      "hairstyle": "DEFAULT",
+      "heart_level": 4,
+      "heat": 100,
+      "heat_state": "HEATED",
+      "leverage_flags": [],
+      "love": 800,
+      "love_is_per_level": true,
+      "negotiation_starting_resistance": 20,
+      "novelty_counters": {},
+      "opinions": {
+        "AFFECTION": 4,
+        "AGGRESSION": 1,
+        "ANAL_PLAY": 2,
+        "BDSM": 1,
+        "BODY_WORSHIP": 3,
+        "BOTTOMING": 3,
+        "BREEDING": 3,
+        "COSPLAY": 2,
+        "CUMPLAY": 1,
+        "DEGRADATION": 0,
+        "DIRTY_TALK": 2,
+        "EXHIBITIONISM": 1,
+        "FEMINIZATION": 3,
+        "LESBIAN_SEX": 1,
+        "MATERIALISM": -2,
+        "MONOGAMY": 2,
+        "NON-CONSENT": 0,
+        "ORAL_GIVING": 2,
+        "ORAL_RECEIVING": 2,
+        "PAIN_PLAY": 0,
+        "PRAISE": 3,
+        "RISKY_SEX": 2,
+        "ROMANCE": 4,
+        "TABOO": 1,
+        "TOPPING": 2,
+        "VOYEURISM": 2
+      },
+      "outfit_slots": {
+        "BOTTOMS": "night_robe",
+        "BRA": "lace_bra",
+        "LEGGINGS": "",
+        "OUTERWEAR": "night_robe",
+        "PANTIES": "lace_panties",
+        "SHOES": "bunny_slippers",
+        "STOCKINGS": "",
+        "TOP": "night_robe"
+      },
+      "paperdoll_overlays": {
+        "heat_blush": "HAIR_FRONT",
+        "sweatdrop": "HAIR_FRONT"
+      },
+      "patience": 100,
+      "per_phase_flags": [],
+      "persistent_flags": [
+        "first_kissed_lips_act",
+        "has_seen_penis",
+        "first_grope_ass_act",
+        "has_kissed_cheek",
+        "ps_01_stayed",
+        "ps_01_warned",
+        "ps_01_sniffed",
+        "level_3_unlocked",
+        "level_4_unlocked"
+      ],
+      "pledged_leverage_flags": [],
+      "pubes_style": "DEFAULT",
+      "resistance": 0,
+      "roll_stack": [
+        0.0425885915756226,
+        0.284480750560761,
+        0.521234393119812,
+        0.0391518957912922,
+        0.143899574875832,
+        0.927672743797302
+      ],
+      "sanity": 100,
+      "sensitivity_scores": {
+        "ASS": 300,
+        "BREASTS": 100,
+        "LIPS": 80,
+        "PUSSY": 50,
+        "THROAT": 50
+      },
+      "slots_pulled": [],
+      "stamina": 100,
+      "status_flags": {
+        "ANGRY": false,
+        "SLEEP": false
+      },
+      "talkie_eyes": "SAD",
+      "talkie_framing": "BUST",
+      "talkie_mouth": "GRIMACE",
+      "talkie_pose": "NERVOUS",
+      "torpor": 0,
+      "track_location": false
+    }
+  },
+  "global_counters": {
+    "jill_ps_01": 5,
+    "jill_sink_attempts": 2,
+    "jill_sq_01": 10,
+    "jill_sq_02": 8,
+    "jill_sq_02_rubbed": 3,
+    "jill_vignette_cafe": 5,
+    "jill_vignette_dinner": 15,
+    "jill_vignette_gym": 6
+  },
+  "image_manager": {
+    "big_display_state": "TALKIE",
+    "other_big_image_id": "vignette_dinner_venting",
+    "other_big_image_target_person_id": "jill",
+    "small_strip": [
+      {
+        "texture_path": "",
+        "visible": false
+      },
+      {
+        "texture_path": "",
+        "visible": false
+      },
+      {
+        "texture_path": "",
+        "visible": false
+      }
+    ],
+    "talkie_a_framing": "BUST",
+    "talkie_b_framing": "FACE"
+  },
+  "language": "en",
+  "main_person": "jill",
+  "paperdoll_info": {
+    "main_mannequin": {
+      "target_person": ""
+    },
+    "set_me": {
+      "target_person": ""
+    },
+    "solo_pose_a": {
+      "pose_id": "SITTING",
+      "target_person": ""
+    },
+    "solo_pose_b": {
+      "pose_id": "SITTING",
+      "target_person": ""
+    },
+    "solo_pose_full": {
+      "pose_id": "HUG",
+      "target_person": "jill"
+    },
+    "talkie_bust_a": {
+      "target_person": "jill"
+    },
+    "talkie_bust_b": {
+      "target_person": ""
+    },
+    "talkie_face_a": {
+      "target_person": ""
+    },
+    "talkie_face_b": {
+      "target_person": ""
+    },
+    "talkie_full_a": {
+      "target_person": "jill"
+    },
+    "talkie_full_b": {
+      "target_person": ""
+    }
+  },
+  "player": {
+    "cash": 150,
+    "is_naked": false,
+    "max_vigor": 100,
+    "o_progress": 0,
+    "per_day_counters": {
+      "gym_visits": 0
+    },
+    "persistent_flags": [
+      "has_met_jill",
+      "strange_note_read",
+      "gym_unlocked",
+      "cafe_unlocked"
+    ],
+    "player_name": "azaz",
+    "vigor": 100
+  },
+  "quest_flags": {
+    "jill_ps_01": [],
+    "jill_sq_01": [],
+    "jill_sq_02": []
+  },
+  "quest_queued_resets": {},
+  "quest_stages": {
+    "jill_ps_01": 4,
+    "jill_sq_01": 4,
+    "jill_sq_02": 10
+  },
+  "rollback_manager": {
+    "rollback_slot_index": 7,
+    "rollback_slots": [
+      {
+        "active_plap_emitters": [],
+        "activity_log": [
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You head upstairs into the bathroom."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "After inspecting the faucet, you identify three potential sources for the leak."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "Which fix do you try?"
+          },
+          {
+            "record_type": "player_choice",
+            "text": "Check Ball Assembly"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You take the faucet apart and check the ball assembly."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You think you found the source of the leak."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You plug it with some chewing gum."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You reassemble the faucet, crossing your fingers."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "It worked! No more drips!"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You should inform Jill."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You are in Jill's house."
+          },
+          {
+            "record_type": "player_choice",
+            "text": "Kitchen"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You are in the kitchen.\nJill is here."
+          },
+          {
+            "record_type": "player_choice",
+            "text": "Jill: 'Man of the House'"
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "Hey, mister fix-it!"
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "Did you have any luck?"
+          },
+          {
+            "record_type": "player_choice",
+            "text": "I Fixed it"
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "Oh, don't worry about--"
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "You fixed it? really?"
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "That's amazing!"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "Jill pulls you into a warm hug."
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "Thank you, azaz!"
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "I'm so lucky to have you here."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "She loosens her grip and gives you some breathing space."
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "I'll have to repay you somehow."
+          },
+          {
+            "record_type": "player_choice",
+            "text": "No Need"
+          },
+          {
+            "record_type": "system_output",
+            "text": "Relationship with Jill improved!  [color=ff0000][img=28x28]res://img/ui/choice_icon/hearts.png[/img]+50 Love[/color]"
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "Are you sure? "
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "Well, thanks again."
+          },
+          {
+            "girl_id": "jill",
+            "record_type": "dialog",
+            "text": "It really is nice having a man around the house."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "Jill goes back to what she was doing."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You are in the kitchen.\nJill is here."
+          },
+          {
+            "record_type": "player_choice",
+            "text": "Dinner with Jill"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You decide to join Jill for dinner."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "She vents to you about her day at work."
+          },
+          {
+            "record_type": "system_output",
+            "text": "Relationship with Jill improved!  [color=ff0000][img=28x28]res://img/ui/choice_icon/hearts.png[/img]+5 Love[/color]"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "She seems to enjoy having someone like you to talk to."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You are in the kitchen."
+          },
+          {
+            "record_type": "player_choice",
+            "text": "Leave"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You are in Jill's house."
+          },
+          {
+            "record_type": "player_choice",
+            "text": "Your Bedroom"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You are in your bedroom."
+          },
+          {
+            "record_type": "player_choice",
+            "text": "Text Jill (Private Favors)"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You send Jill a text."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "After a moment, your phone buzzes."
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "on my way! 😉"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "Before long, you hear footsteps approaching."
+          },
+          {
+            "record_type": "player_choice",
+            "text": "Whip Out Your Cock"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "You try to unleash your throbbing giant, but the zipper won't budge!"
+          },
+          {
+            "girl_id": "",
+            "record_type": "dialog",
+            "text": "(Not yet implemented)"
+          }
+        ],
+        "current_bgm_track": "",
+        "current_phase": "night",
+        "current_room": "mc_bedroom",
+        "current_weather": "clear",
+        "dialog_player": {
+          "choice_nodes": [],
+          "current_node": "DIALOG_014",
+          "current_tree": "invite_jill",
+          "event_subtree_anchor_0": "nav_mc_bedroom",
+          "subtree_anchor_stack": [],
+          "visited_nodes": {
+            "cafe_afternoon_shift": {
+              "DIALOG_001": true,
+              "DIALOG_002": true
+            },
+            "cafe_morning_shift": {
+              "DIALOG_001": true,
+              "DIALOG_002": true
+            },
+            "cs_cafe_intro": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true,
+              "DIALOG_021": true,
+              "DIALOG_022": true
+            },
+            "cs_gym_intro": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true,
+              "DIALOG_022": true,
+              "DIALOG_023": true,
+              "DIALOG_024": true,
+              "DIALOG_025": true,
+              "DIALOG_026": true,
+              "DIALOG_027": true,
+              "DIALOG_028": true,
+              "DIALOG_029": true,
+              "DIALOG_030": true,
+              "DIALOG_031": true,
+              "DIALOG_032": true
+            },
+            "cs_intro_jill": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_004": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true,
+              "DIALOG_021": true,
+              "DIALOG_022": true,
+              "DIALOG_023": true,
+              "DIALOG_024": true,
+              "DIALOG_025": true,
+              "DIALOG_026": true,
+              "DIALOG_027": true,
+              "DIALOG_028": true,
+              "DIALOG_031": true,
+              "DIALOG_033": true,
+              "DIALOG_038": true,
+              "DIALOG_039": true,
+              "DIALOG_041": true,
+              "DIALOG_042": true,
+              "DIALOG_047": true,
+              "DIALOG_048": true,
+              "DIALOG_049": true,
+              "DIALOG_050": true,
+              "DIALOG_051": true,
+              "DIALOG_052": true,
+              "DIALOG_053": true,
+              "DIALOG_054": true,
+              "DIALOG_055": true,
+              "DIALOG_056": true,
+              "DIALOG_057": true,
+              "DIALOG_058": true,
+              "DIALOG_064": true,
+              "DIALOG_065": true,
+              "DIALOG_068": true,
+              "DIALOG_069": true,
+              "DIALOG_070": true,
+              "DIALOG_071": true,
+              "DIALOG_072": true,
+              "DIALOG_073": true,
+              "DIALOG_074": true,
+              "DIALOG_075": true,
+              "DIALOG_077": true,
+              "DIALOG_078": true,
+              "DIALOG_079": true,
+              "DIALOG_080": true,
+              "DIALOG_081": true,
+              "DIALOG_082": true,
+              "DIALOG_083": true,
+              "DIALOG_084": true,
+              "DIALOG_086": true
+            },
+            "cs_intro_wake_up": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true,
+              "DIALOG_021": true
+            },
+            "gym_workout": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true
+            },
+            "invite_jill": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_010": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true
+            },
+            "jill_0_hearts_max_love": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_017": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true
+            },
+            "jill_1_heart_max_love": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true,
+              "DIALOG_021": true,
+              "DIALOG_022": true,
+              "DIALOG_023": true,
+              "DIALOG_024": true,
+              "DIALOG_025": true,
+              "DIALOG_026": true,
+              "DIALOG_027": true,
+              "DIALOG_028": true,
+              "DIALOG_029": true,
+              "DIALOG_030": true,
+              "DIALOG_031": true,
+              "DIALOG_032": true,
+              "DIALOG_033": true,
+              "DIALOG_034": true,
+              "DIALOG_035": true,
+              "DIALOG_036": true,
+              "DIALOG_037": true,
+              "DIALOG_038": true,
+              "DIALOG_039": true,
+              "DIALOG_040": true,
+              "DIALOG_041": true,
+              "DIALOG_042": true,
+              "DIALOG_043": true,
+              "DIALOG_044": true,
+              "DIALOG_045": true,
+              "DIALOG_046": true,
+              "DIALOG_047": true,
+              "DIALOG_048": true,
+              "DIALOG_049": true,
+              "DIALOG_050": true,
+              "DIALOG_051": true,
+              "DIALOG_052": true,
+              "DIALOG_053": true,
+              "DIALOG_054": true,
+              "DIALOG_055": true,
+              "DIALOG_056": true,
+              "DIALOG_057": true,
+              "DIALOG_058": true,
+              "DIALOG_059": true,
+              "DIALOG_060": true,
+              "DIALOG_062": true,
+              "DIALOG_063": true,
+              "DIALOG_064": true
+            },
+            "jill_bedroom_photo": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true
+            },
+            "jill_favor_kiss": {
+              "DIALOG_001": true,
+              "DIALOG_005": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_034": true,
+              "DIALOG_039": true,
+              "DIALOG_040": true,
+              "DIALOG_041": true
+            },
+            "jill_negotiate": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_004": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_012": true,
+              "DIALOG_014": true
+            },
+            "jill_plead_generic": {
+              "DIALOG_002": true,
+              "DIALOG_007": true,
+              "DIALOG_009": true
+            },
+            "jill_ps_01_ask_stay": {
+              "DIALOG_002": true,
+              "DIALOG_005": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_021": true,
+              "DIALOG_022": true,
+              "DIALOG_023": true,
+              "DIALOG_036": true,
+              "DIALOG_041": true,
+              "DIALOG_042": true,
+              "DIALOG_047": true
+            },
+            "jill_ps_01_cum_options": {
+              "DIALOG_001": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_006": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true,
+              "DIALOG_021": true,
+              "DIALOG_022": true,
+              "DIALOG_023": true,
+              "DIALOG_024": true,
+              "DIALOG_025": true
+            },
+            "jill_ps_01_start": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true,
+              "DIALOG_021": true,
+              "DIALOG_023": true,
+              "DIALOG_024": true,
+              "DIALOG_025": true,
+              "DIALOG_027": true,
+              "DIALOG_028": true,
+              "DIALOG_030": true,
+              "DIALOG_031": true,
+              "DIALOG_033": true,
+              "DIALOG_034": true,
+              "DIALOG_035": true,
+              "DIALOG_038": true,
+              "DIALOG_041": true,
+              "DIALOG_042": true,
+              "DIALOG_043": true,
+              "DIALOG_044": true,
+              "DIALOG_045": true,
+              "DIALOG_046": true,
+              "DIALOG_047": true,
+              "DIALOG_048": true
+            },
+            "jill_ps_01_stay_watch": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_018": true,
+              "DIALOG_036": true,
+              "DIALOG_037": true,
+              "DIALOG_039": true,
+              "DIALOG_040": true,
+              "DIALOG_041": true,
+              "DIALOG_042": true,
+              "DIALOG_043": true
+            },
+            "jill_sq_01_fix_sink": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true
+            },
+            "jill_sq_01_in_prog": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_018": true
+            },
+            "jill_sq_01_start": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true
+            },
+            "jill_sq_02_start": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true,
+              "DIALOG_021": true,
+              "DIALOG_022": true,
+              "DIALOG_023": true,
+              "DIALOG_024": true,
+              "DIALOG_025": true,
+              "DIALOG_026": true,
+              "DIALOG_027": true,
+              "DIALOG_028": true,
+              "DIALOG_029": true,
+              "DIALOG_030": true,
+              "DIALOG_031": true,
+              "DIALOG_032": true,
+              "DIALOG_033": true,
+              "DIALOG_034": true,
+              "DIALOG_035": true,
+              "DIALOG_036": true,
+              "DIALOG_037": true,
+              "DIALOG_038": true,
+              "DIALOG_039": true,
+              "DIALOG_040": true,
+              "DIALOG_041": true,
+              "DIALOG_042": true,
+              "DIALOG_043": true,
+              "DIALOG_044": true,
+              "DIALOG_045": true,
+              "DIALOG_046": true,
+              "DIALOG_047": true,
+              "DIALOG_048": true,
+              "DIALOG_049": true,
+              "DIALOG_050": true,
+              "DIALOG_051": true,
+              "DIALOG_052": true,
+              "DIALOG_053": true,
+              "DIALOG_054": true,
+              "DIALOG_055": true,
+              "DIALOG_056": true,
+              "DIALOG_057": true,
+              "DIALOG_058": true,
+              "DIALOG_059": true,
+              "DIALOG_060": true,
+              "DIALOG_061": true,
+              "DIALOG_062": true,
+              "DIALOG_063": true,
+              "DIALOG_064": true,
+              "DIALOG_065": true,
+              "DIALOG_066": true,
+              "DIALOG_067": true,
+              "DIALOG_068": true,
+              "DIALOG_069": true,
+              "DIALOG_070": true,
+              "DIALOG_071": true,
+              "DIALOG_072": true,
+              "DIALOG_073": true,
+              "DIALOG_074": true,
+              "DIALOG_076": true,
+              "DIALOG_077": true,
+              "DIALOG_078": true,
+              "DIALOG_079": true,
+              "DIALOG_080": true,
+              "DIALOG_081": true,
+              "DIALOG_082": true,
+              "DIALOG_083": true,
+              "DIALOG_088": true,
+              "DIALOG_089": true,
+              "DIALOG_090": true,
+              "DIALOG_091": true
+            },
+            "jill_vignette_cafe": {
+              "DIALOG_001": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true
+            },
+            "jill_vignette_dinner": {
+              "DIALOG_001": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true
+            },
+            "jill_vignette_gym": {
+              "DIALOG_001": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true
+            },
+            "jill_visit_action": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true
+            },
+            "jill_visit_backrub": {
+              "DIALOG_001": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true
+            },
+            "jill_visit_favor": {
+              "DIALOG_001": true
+            },
+            "jill_visit_goodbye": {
+              "DIALOG_001": true,
+              "DIALOG_002": true
+            },
+            "jill_visit_greeting": {
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true
+            },
+            "jill_visit_home": {
+              "DIALOG_001": true,
+              "DIALOG_007": true,
+              "DIALOG_012": true
+            },
+            "jill_visit_hug": {
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_021": true,
+              "DIALOG_023": true,
+              "DIALOG_028": true,
+              "DIALOG_029": true,
+              "DIALOG_030": true,
+              "DIALOG_038": true
+            },
+            "jill_visit_kiss_cheek": {
+              "DIALOG_001": true,
+              "DIALOG_003": true,
+              "DIALOG_006": true
+            },
+            "jill_visit_praise": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_027": true,
+              "DIALOG_028": true
+            },
+            "jill_visit_talk_about": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_004": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true
+            },
+            "jill_visit_touch": {
+              "DIALOG_001": true
+            },
+            "nav_cafe": {
+              "DIALOG_001": true
+            },
+            "nav_gym": {
+              "DIALOG_001": true
+            },
+            "nav_jill_bedroom": {
+              "DIALOG_001": true
+            },
+            "nav_jill_home": {
+              "DIALOG_001": true
+            },
+            "nav_jill_kitchen": {
+              "DIALOG_001": true
+            },
+            "nav_mc_bedroom": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_004": true
+            },
+            "nav_town_map": {
+              "DIALOG_001": true
+            },
+            "sleepytime": {
+              "DIALOG_001": true,
+              "DIALOG_002": true
+            },
+            "strange_note": {
+              "DIALOG_001": true,
+              "DIALOG_002": true,
+              "DIALOG_003": true,
+              "DIALOG_004": true,
+              "DIALOG_005": true,
+              "DIALOG_006": true,
+              "DIALOG_007": true,
+              "DIALOG_008": true,
+              "DIALOG_009": true,
+              "DIALOG_010": true,
+              "DIALOG_011": true,
+              "DIALOG_012": true,
+              "DIALOG_013": true,
+              "DIALOG_014": true,
+              "DIALOG_015": true,
+              "DIALOG_016": true,
+              "DIALOG_017": true,
+              "DIALOG_018": true,
+              "DIALOG_019": true,
+              "DIALOG_020": true,
+              "DIALOG_021": true,
+              "DIALOG_022": true,
+              "DIALOG_023": true,
+              "DIALOG_024": true,
+              "DIALOG_025": true,
+              "DIALOG_026": true,
+              "DIALOG_027": true,
+              "DIALOG_028": true,
+              "DIALOG_029": true,
+              "DIALOG_030": true,
+              "DIALOG_031": true,
+              "DIALOG_032": true,
+              "DIALOG_033": true,
+              "DIALOG_034": true,
+              "DIALOG_035": true,
+              "DIALOG_036": true,
+              "DIALOG_037": true,
+              "DIALOG_038": true,
+              "DIALOG_039": true
+            }
+          }
+        },
+        "girl_info": {
+          "jill": {
+            "action_tests": {
+              "ask_go_private": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "ask_kiss_cheek": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "ask_kiss_lips": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "kiss_cheek_turn_head": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "pf_ask_cum_chest": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "pf_ask_cum_hands": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "pf_ask_paizuri": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "pf_ask_undress_bra": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "pf_ask_undress_top": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "pf_ask_watch_mc": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "pf_whip_it_out": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "ps_01_ask_stay": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_backrub": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_hug": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_hug_grope": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_kiss_cheek": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_praise_risky_01": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_praise_risky_02": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_praise_safe_01": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_praise_safe_02": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_praise_vulgar_01": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              },
+              "visit_praise_vulgar_02": {
+                "memory_flags": {
+                  "allowed_already": false,
+                  "denied_already": false
+                }
+              }
+            },
+            "anger_strikes": 0,
+            "conditioning_scores": {
+              "MC_AUTHORITY": 119,
+              "MC_CUM": 40,
+              "MC_GAZE": 45,
+              "MC_PENIS": 122,
+              "MC_TONGUE": 0,
+              "MC_TOUCH": 417
+            },
+            "current_location": "jill_bedroom",
+            "girl_name": "Jill",
+            "hairstyle": "DEFAULT",
+            "heart_level": 4,
+            "heat": 76,
+            "heat_state": "HEATED",
+            "leverage_flags": [],
+            "love": 382,
+            "love_is_per_level": true,
+            "negotiation_starting_resistance": 41,
+            "novelty_counters": {},
+            "opinions": {
+              "AFFECTION": 2,
+              "AGGRESSION": -1,
+              "ANAL_PLAY": 0,
+              "BDSM": 0,
+              "BODY_WORSHIP": 1,
+              "BOTTOMING": 1,
+              "BREEDING": 1,
+              "COSPLAY": 0,
+              "CUMPLAY": -1,
+              "DEGRADATION": -1,
+              "DIRTY_TALK": 0,
+              "EXHIBITIONISM": 0,
+              "FEMINIZATION": 1,
+              "LESBIAN_SEX": 0,
+              "MATERIALISM": -1,
+              "MONOGAMY": 0,
+              "NON-CONSENT": 0,
+              "ORAL_GIVING": 0,
+              "ORAL_RECEIVING": 0,
+              "PAIN_PLAY": -1,
+              "PRAISE": 1,
+              "RISKY_SEX": 0,
+              "ROMANCE": 1,
+              "TABOO": 0,
+              "TOPPING": 0,
+              "VOYEURISM": 0
+            },
+            "outfit_slots": {
+              "BOTTOMS": "night_robe",
+              "BRA": "lace_bra",
+              "LEGGINGS": "",
+              "OUTERWEAR": "night_robe",
+              "PANTIES": "lace_panties",
+              "SHOES": "bunny_slippers",
+              "STOCKINGS": "",
+              "TOP": "night_robe"
+            },
+            "paperdoll_overlays": {
+              "heat_blush": "HAIR_FRONT",
+              "sweatdrop": "HAIR_FRONT"
+            },
+            "patience": 70,
+            "per_phase_flags": [],
+            "persistent_flags": [
+              "first_kissed_lips_act",
+              "has_seen_penis",
+              "first_grope_ass_act",
+              "has_kissed_cheek",
+              "ps_01_stayed",
+              "ps_01_warned",
+              "ps_01_sniffed"
+            ],
+            "pledged_leverage_flags": [],
+            "pubes_style": "DEFAULT",
+            "resistance": 0,
+            "roll_stack": [
+              0.0425885915756226,
+              0.284480750560761,
+              0.521234393119812,
+              0.0391518957912922,
+              0.143899574875832,
+              0.927672743797302
+            ],
+            "sanity": 100,
+            "sensitivity_scores": {
+              "ASS": 210,
+              "BREASTS": 40,
+              "LIPS": 35,
+              "PUSSY": 0,
+              "THROAT": 0
+            },
+            "slots_pulled": [],
+            "stamina": 100,
+            "status_flags": {
+              "ANGRY": false,
+              "SLEEP": false
+            },
+            "talkie_eyes": "SAD",
+            "talkie_framing": "BUST",
+            "talkie_mouth": "GRIMACE",
+            "talkie_pose": "NERVOUS",
+            "torpor": 0,
+            "track_location": false
+          }
+        },
+        "global_counters": {
+          "jill_ps_01": 3,
+          "jill_sink_attempts": 2,
+          "jill_sq_01": 6,
+          "jill_sq_02": 3,
+          "jill_sq_02_rubbed": 1,
+          "jill_vignette_cafe": 2,
+          "jill_vignette_dinner": 9,
+          "jill_vignette_gym": 3
+        },
+        "image_manager": {
+          "big_display_state": "TALKIE",
+          "other_big_image_id": "vignette_dinner_venting",
+          "other_big_image_target_person_id": "jill",
+          "small_strip": [
+            {
+              "texture_path": "res://img/char/jill/small/eyes_hug_closed.png",
+              "visible": false
+            },
+            {
+              "texture_path": "",
+              "visible": false
+            },
+            {
+              "texture_path": "",
+              "visible": false
+            }
+          ],
+          "talkie_a_framing": "BUST",
+          "talkie_b_framing": "FACE"
+        },
+        "language": "en",
+        "main_person": "jill",
+        "paperdoll_info": {
+          "main_mannequin": {
+            "target_person": ""
+          },
+          "set_me": {
+            "target_person": ""
+          },
+          "solo_pose_a": {
+            "pose_id": "SITTING",
+            "target_person": ""
+          },
+          "solo_pose_b": {
+            "pose_id": "SITTING",
+            "target_person": ""
+          },
+          "solo_pose_full": {
+            "pose_id": "HUG",
+            "target_person": "jill"
+          },
+          "talkie_bust_a": {
+            "target_person": "jill"
+          },
+          "talkie_bust_b": {
+            "target_person": ""
+          },
+          "talkie_face_a": {
+            "target_person": ""
+          },
+          "talkie_face_b": {
+            "target_person": ""
+          },
+          "talkie_full_a": {
+            "target_person": "jill"
+          },
+          "talkie_full_b": {
+            "target_person": ""
+          }
+        },
+        "player": {
+          "cash": 150,
+          "is_naked": false,
+          "max_vigor": 100,
+          "o_progress": 0,
+          "per_day_counters": {
+            "gym_visits": 0
+          },
+          "persistent_flags": [
+            "has_met_jill",
+            "strange_note_read",
+            "gym_unlocked",
+            "cafe_unlocked"
+          ],
+          "player_name": "azaz",
+          "vigor": 100
+        },
+        "quest_flags": {
+          "jill_ps_01": [],
+          "jill_sq_01": [],
+          "jill_sq_02": []
+        },
+        "quest_queued_resets": {},
+        "quest_stages": {
+          "jill_ps_01": 0,
+          "jill_sq_01": 0,
+          "jill_sq_02": 5
+        },
+        "room_info": {},
+        "save_menu": {
+          "scroll_position": 288
+        },
+        "save_slot": {
+          "current_date": "2026-01-04",
+          "last_played_dialog": "What would you like to do?",
+          "time_played": 59219
+        },
+        "second_person": "clear",
+        "ui_state": 1
+      }
+    ]
+  },
+  "room_info": {},
+  "save_menu": {
+    "scroll_position": 288
+  },
+  "save_slot": {
+    "current_date": "2026-01-04",
+    "last_played_dialog": "Jill: \"What kind of woman do you think I am?\"",
+    "time_played": 59063
+  },
+  "second_person": "clear",
+  "ui_state": 1
+}
