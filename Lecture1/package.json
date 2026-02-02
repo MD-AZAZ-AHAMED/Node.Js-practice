@@ -1,0 +1,29 @@
+{
+  "name": "ebook",
+  "version": "1.0.0",
+  "description": "Ebook api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.ts"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Azaz <azazahamed006@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/express": "^5.0.6",
+    "@types/node": "^24.10.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.48.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
