@@ -1,0 +1,192 @@
+.Navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0.6rem 2rem;
+  z-index: 1;
+  box-shadow: 1px 1px 4px rgba(128, 128, 128, 0.335);
+}
+
+.NavLogo {
+  font-size: 1.6rem;
+  text-transform: uppercase;
+}
+
+.NavLogo span {
+  color: rgb(243, 111, 9);
+}
+
+.active {
+  color: rgb(243, 111, 9) !important;
+}
+
+.Navbar ul {
+  display: flex;
+  gap: 1.5rem;
+  text-transform: uppercase;
+}
+
+.Navbar ul li {
+  font-size: 0.9rem;
+  list-style: none;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  font-weight: 600;
+}
+
+.Navbar ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.Navbar ul li a:hover {
+  color: rgb(243, 111, 9);
+}
+
+.NavBtn {
+  padding: 0.5rem 1.1rem;
+  border-radius: 4px;
+  border: 1px solid rgb(243, 111, 9);
+  background-color: rgb(243, 111, 9);
+  color: white;
+  cursor: pointer;
+  transition: color 0.2s ease-in-out;
+  font-size: 1.5vw;
+  text-transform: uppercase;
+  box-shadow: 2px 2px 2px 1px rgba(110, 48, 0, 0.16);
+}
+
+.hamburger {
+  display: none;
+}
+
+.menuIcon {
+  font-size: 1.5rem;
+}
+
+/* responsive section */
+
+@media screen and (max-width: 450px) {
+  .Navbar {
+    padding: 0.6rem 0rem;
+  }
+
+  .brand {
+    width: 100vw;
+    display: flex;
+    padding: 0 1rem;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .hamburger {
+    display: block;
+    cursor: pointer;
+  }
+
+  .Navbar ul {
+    flex-direction: column;
+    position: fixed;
+    top: 7%;
+    align-items: center;
+    background-color: #fff;
+    width: 100%;
+    margin: auto;
+    padding: 1rem 0;
+    display: none;
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .open {
+    opacity: 1 !important;
+    display: flex !important;
+  }
+
+  .NavBtn {
+    display: none;
+  }
+}
+@media screen and (max-width: 320px) {
+  .Navbar ul {
+    top: 6%;
+  }
+
+  .NavLogo {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+  }
+}
+
+/* Base Connect Button Styling */
+.NavBtn {
+  position: relative;
+  padding: 10px 24px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #ffffff;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 30px;
+  cursor: pointer;
+  text-transform: capitalize;
+  overflow: visible; /* Allows the glow ring to radiate outward */
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.15);
+}
+
+/* Ensure the text stays crisp and above background layers */
+.NavBtn span {
+  position: relative;
+  z-index: 2;
+}
+
+/* Continuous Pulsing Background Ring */
+.btnGlow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 30px;
+  background: rgba(30, 41, 59, 0.4);
+  z-index: 1;
+  pointer-events: none;
+  animation: pulseRing 2.5s infinite cubic-bezier(0.25, 0, 0, 1);
+}
+
+/* Hover and Active Interaction Animations */
+.NavBtn:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.3), 
+              0 0 12px rgba(226, 232, 240, 0.2);
+}
+
+.NavBtn:active {
+  transform: translateY(1px);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.2);
+}
+
+/* Keyframes definition for the looping pulse effect */
+@keyframes pulseRing {
+  0% {
+    transform: scale(0.98);
+    opacity: 0.8;
+    box-shadow: 0 0 0 0px rgba(15, 23, 42, 0.4);
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: scale(1.15);
+    opacity: 0;
+    box-shadow: 0 0 0 12px rgba(15, 23, 42, 0);
+  }
+}
